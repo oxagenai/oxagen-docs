@@ -1,4 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Environment
+.env
+.env.*
+
+# OS
 .DS_Store
+
+# Editor
 .claude
 .vscode
 .cursor
